@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_width">64dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="increase_margin">142dp</dimen>
+    <dimen name="reduce_margin">16dp</dimen>
+</resources>
